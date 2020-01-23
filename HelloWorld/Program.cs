@@ -6,10 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            // Display the "Hello World" Message
-            Console.WriteLine("Hello World");
-            // Display the second message of ISM 4300
-            Console.WriteLine("This is ISM 4300!");
+            // Pause to display Hello World!
+            Console.WriteLine("Press any key to continue...");
+            Console.WriteLine("Hello World!");
             Console.ReadKey(true);
         }
     }
